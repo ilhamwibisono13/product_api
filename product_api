@@ -1,0 +1,15 @@
+{
+  "products" : [{ "id": 1, "judul": "Veal - Insides, Grains", "harga": "$4.99" },
+  { "id": 2, "judul": "Fiddlehead - Frozen", "harga": "$0.50" },
+  { "id": 3, "judul": "Banana Turning", "harga": "$3.97" },
+  { "id": 4, "judul": "Wine - Balbach Riverside", "harga": "$1.81" },
+  { "id": 5, "judul": "Cheese - Havarti, Salsa", "harga": "$1.37" },
+  { "id": 6, "judul": "Sauce - Demi Glace", "harga": "$3.40" },
+  { "id": 7, "judul": "Juice - Apple Cider", "harga": "$9.32" },
+  { "id": 8, "judul": "Wine - Shiraz South Eastern", "harga": "$8.14" },
+  { "id": 9, "judul": "Wine - Cabernet Sauvignon", "harga": "$9.87" },
+  { "id": 10, "judul": "Yogurt - Strawberry, 175 Gr", "harga": "$1.77" },
+  { "id": 11, "judul": "Chinese Lemon Pork", "harga": "$7.80" },
+  { "id": 12, "judul": "Pork - Back Ribs", "harga": "$9.06" },
+  { "id": 13, "judul": "Goat - Whole Cut", "harga": "$1.21" }, { "id": 14, "judul": "Dome Lid Clear P92008h", "harga": "$6.63" }, { "id": 15, "judul": "Wine - Black Tower Qr", "harga": "$2.76" }, { "id": 16, "judul": "Water Chestnut - Canned", "harga": "$3.73" }, { "id": 17, "judul": "Catfish - Fillets", "harga": "$7.47" }, { "id": 18, "judul": "7up Diet, 355 Ml", "harga": "$5.75" }, { "id": 19, "judul": "Apple - Northern Spy", "harga": "$6.83" }, { "id": 20, "judul": "Flour - Teff", "harga": "$6.46" }, { "id": 21, "judul": "Beans - Butter Lrg Lima", "harga": "$5.94" }, { "id": 22, "judul": "Crab - Blue, Frozen", "harga": "$2.64" }, { "id": 23, "judul": "Onion - Dried", "harga": "$7.62" }, { "id": 24, "judul": "Oven Mitts 17 Inch", "harga": "$4.52" }, { "id": 25, "judul": "Nutmeg - Ground", "harga": "$2.15" }, { "id": 26, "judul": "Pastry - Trippleberry Muffin - Mini", "harga": "$6.58" }, { "id": 27, "judul": "Beans - Wax", "harga": "$2.07" }, { "id": 28, "judul": "Oranges - Navel, 72", "harga": "$9.94" }, { "id": 29, "judul": "Mint - Fresh", "harga": "$7.74" }, { "id": 30, "judul": "Devonshire Cream", "harga": "$6.10" }]
+}
